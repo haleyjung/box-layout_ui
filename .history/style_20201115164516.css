@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   background-color: #f6deb3;
-  border: 2px solid black;
+  border: 5px solid black;
 }
 
 .box {
